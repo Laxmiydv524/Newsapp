@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Newsapp/static/js/main.785b8e38.js",
+    "static/media/Loading.gif": "/Newsapp/static/media/Loading.1bc7926633c1cee58036.gif",
+    "index.html": "/Newsapp/index.html",
+    "main.785b8e38.js.map": "/Newsapp/static/js/main.785b8e38.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.785b8e38.js"
+  ]
+}
